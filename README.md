@@ -27,5 +27,5 @@ A comprehensive list of all employees with filtering options based on available 
 <img width="1398" alt="HR Dashboard | Details" src="https://github.com/roopchand17/HR-Dashboard-Tableau/assets/117518211/a4262d21-c09e-4543-93d6-846488dcceb5">
 
 ## Tableau Public Link
-View the dashboard on [Tableau Public](https://public.tableau.com/app/profile/ajmeera.roopchand/viz/HRDashboard_17200173732460/HRSummary)
+View the dashboard on [Tableau Public](https://public.tableau.com/app/profile/sai.teja.b1356/viz/HRDashboard_17696091782440/HRSummary)
 
